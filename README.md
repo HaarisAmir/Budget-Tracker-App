@@ -1,16 +1,43 @@
-# budget_tracking_app
+# Budget Tracker App
 
-A new Flutter project.
+A simple and modern Flutter application for tracking income and expenses with visual insights and clean UI design.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- 📊 Track income & expenses in a clean dashboard  
+- 🏷️ Category-based expense management  
+- 🥧 Pie chart visualization of spending  
+- 📜 Income & expense history tracking  
+- 🎯 Simple and user-friendly interface
+  
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+*(Add screenshots here later)*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📥 Download
+### 🔗 All Releases:
+https://github.com/HaarisAmir/Budget-Tracker-App/releases
+
+### 📦 Latest Version:
+https://github.com/HaarisAmir/Budget-Tracker-App/releases/tag/v1.0
+
+---
+
+## 🛠 Built With
+- Flutter  
+- Dart
+
+---
+
+## 📌 Version/Changes
+### v1.0:
+- Track income & expenses in a clean dashboard  
+- Category-based expense management  
+- Pie chart visualization of spending  
+- Income & expense history tracking  
+- Simple and user-friendly interface
+
