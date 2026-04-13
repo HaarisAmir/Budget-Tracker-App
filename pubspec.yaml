@@ -1,0 +1,45 @@
+name: budget_tracking_app
+description: "Budget Tracking App"
+
+publish_to: 'PlayStore' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path: ^1.9.0
+  cupertino_icons: ^1.0.8
+  flutter_native_splash: ^2.4.6
+  hive: ^2.2.3         
+  hive_flutter: ^1.1.0 
+  fl_chart: ^1.1.1  
+  charts_flutter: ^0.12.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+  intl: ^0.17.0 #0.20.2
+  
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/budget_tracking.png
+    - assets/images/logo.png
+    - assets/images/splash_screen.png
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.png" # after chaning logo DO in terminal 1) flutter pub get  2) flutter pub run flutter_launcher_icons:main 
+
+
+
+
+
